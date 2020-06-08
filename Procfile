@@ -1,1 +1,1 @@
-web: gunicorn stats.wsgi --log-file -
+web: gunicorn thawing-dawn-71868 --log-file -
